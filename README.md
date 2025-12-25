@@ -1,4 +1,4 @@
-# Amazon-International-Appeal-sales-dataset-cleanup
+# Amazon-International-Apparel-sales-dataset-cleanup
 
 ## Project Overview 
 
